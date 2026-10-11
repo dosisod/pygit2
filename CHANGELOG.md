@@ -1,3 +1,7 @@
+# 1.21.0 (UNRELEASED)
+
+- Add support for Python 3.15
+
 # 1.20.1 (2026-09-12)
 
 - Update wheels to libgit2 1.9.7
